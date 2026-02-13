@@ -21,7 +21,7 @@ I am a Frontend Developer
 - :telescope: I’m working as a Software Engineer and building complex, scalable and modern web applications.
 - :seedling: Exploring new technologies and continiously improving skills.
 - :zap: In my free time, I solve problems on LeetCode, go to gym and read books.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-paramonov-job/)
+- :mailbox:How to reach me: [Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-paramonov-job/)
 
 ---
 
