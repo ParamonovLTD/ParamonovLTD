@@ -2,6 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9rZnZhcGxvY2VzazlwczZ6bWJ3Y3dmZnB5bGk4NDQwNW45emZkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="100"/>
 </div>
 
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/roman-paramonov-job">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
